@@ -1,0 +1,15 @@
+.btn-yours{
+  display: inline-block;
+  color: rgb(208, 42, 69);
+  padding: 15px 25px;
+  border-radius: 10px;
+  font-weight: bold;
+  background: pink;
+  box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.2);
+  transition: background 0.3s ease;
+}
+
+.btn-yours:hover {
+  color: white;
+  background: rgb(208, 42, 69);
+}
